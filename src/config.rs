@@ -106,8 +106,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["www.meizhihua.top"];
-pub const RS_PUB_KEY: &str = "wncS8eg89Z6If4XRq77HyJ0Rp674MZKLm+quVjOrt44=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rdp.meizhihua.top"];
+pub const RS_PUB_KEY: &str = "QKRhe78989PVEz5VnzDiDcIWGHlErxnPQm4r+j0Xo7U=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
